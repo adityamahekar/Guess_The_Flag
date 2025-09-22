@@ -38,7 +38,7 @@ const db = new pg.Client({
   password: "XXXXX",    // <-- your password
   port: XXXX,           // <-- your port name
 });
-
+```
 4️⃣ Run Server
 ```bash
 node index.js
