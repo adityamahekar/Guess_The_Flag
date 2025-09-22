@@ -1,4 +1,4 @@
-#🎌 Guess the Flag Game (Express.js + PostgreSQL + EJS)
+🎌 Guess the Flag Game (Express.js + PostgreSQL + EJS)
 ---
 This is a fun Guess the Flag game built with Express.js, PostgreSQL, and EJS.
 Users can test their knowledge of world flags by trying to match a flag with the correct country.
