@@ -14,7 +14,7 @@ Screenshots below showcase the main pages and gameplay.
 
 ---
 
-## 1️⃣ Create Table in PostgreSQL
+# 1️⃣ Create Table in PostgreSQL
 ```sql
 CREATE TABLE capitals1 (
     id SERIAL PRIMARY KEY,
